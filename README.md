@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomlahr (Thomas)
 - 👀 I’m interested in learning to code in python (esp with raspberry pi environment), wrting..etc.
 - 🌱 I’m currently learning ... 👋
-- 💞️ I’m looking for new Raspi Projects
+- 💞️ ...micropython with the Raspi Pico (W)
 - 📫 🦜@tomlahr
 
 <!---
